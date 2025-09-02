@@ -56,6 +56,12 @@
         $maVariable1 = 1;
         var_dump($maVariable1);
     ?>
+
+
+ <?php
+ ?>
+
+
 </body>
 </html>
 </body>
