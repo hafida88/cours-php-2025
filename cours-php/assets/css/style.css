@@ -31,7 +31,7 @@ nav ul li {
 nav ul li a{
     color: #fff; 
     text-decoration: none; 
-    font-size: 2rem; 
+    font-size: 1.5rem; 
 }
 
 body{
@@ -43,6 +43,7 @@ footer{
     padding: 50px 0 30px;
     text-align: center;
     border-top: 1px solid rgba(255, 0, 60, 0.1);
+    position: absolute;bottom: 0;
 }
 .footer-content{
     max-width: 600px;
@@ -61,4 +62,13 @@ footer{
     font-size: 1.1rem;
     color: var(--text-dim);
     margin-bottom: 30px;
+}
+body{
+    background: url(../image/northern-lights-6862969_1280.jpg); 
+    
+}
+image{
+    height: 100%;
+    width: 100%;
+
 }
